@@ -4,7 +4,7 @@ This project reads NMEA speed data from a GPS receiver (e.g. with RTK correction
 
 ## 📺 YouTube Tutorial
 
-👉 [Watch the LK Technik Speedbox Tutorial](https://www.youtube.com/@LKTechnik) *(insert link)*
+👉 [Watch the LK Technik Speedbox Tutorial](https://www.youtube.com/watch?v=h88T-oXgUjY)
 
 ## ⚙️ How It Works
 
